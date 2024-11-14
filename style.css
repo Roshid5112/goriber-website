@@ -362,22 +362,29 @@ footer p{
 		width: 314px;
 }
     .SearchArea{
-		top: 22px;
+		top: 21px;
 		height: 25px;
-		right: 11px;
+		right:23px;
 	}
 	
 	.section1Button{
-		top:32%;
+		top:35%;
+		left: 91%;
+	}
+	.section1Button h1,h2{
+		font-size: 2rem;
 	}
 	.logo{
-		top: 66px;
+		top: 55px;
 	}
 	.section1 img{
-		height: 241px;
+		height: 224px;
 	}
 	.section1{
 		top: 70%;
+	}
+	.iconArea{
+		left: 7px;
 	}
 
 } 
